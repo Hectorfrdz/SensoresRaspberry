@@ -1,0 +1,33 @@
+from led import Led
+
+class main:
+    def menu(self):
+        print("------------Menu------------")
+        print("1. Entrar")
+        # print("2. Temperatura")
+        # print("3. Led")
+        # print("4. Salir")
+        print("----------------------------")
+        opcion = input("Seleccione una opción: ")
+        return opcion
+
+    def main(self):
+        opcion = ""
+        while opcion != "5":
+            opcion = self.menu()
+            if opcion == "1":
+                l = Led(26)
+                l.prender()
+            elif opcion == "5":
+                # Salir
+                print("Saliendo del sistema...")
+                break
+            else:
+                print("Opción inválida, intente de nuevo.")
+                input("Presione Enter para continuar...")
+
+    def led(self):
+            l = Led(27)
+            l.menu()
+
+if __name__ == "__main__":
