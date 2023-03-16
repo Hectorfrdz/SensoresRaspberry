@@ -42,7 +42,8 @@ class main:
                 input("Presione Enter para continuar...")
 
     def sensoresLectura(self):
-        self.conexion.conectarBD() 
+        if self.conexion.conectarBD():
+            self.bandera2 = 1 
         temp = sensor("tmp", [5], "Cocina")
         ult = sensor("ult",[23,24],"Puerta")
         led = sensor("led",[27],"Foco")
