@@ -1,20 +1,32 @@
 import json
+import os
 
 class Json:
-    def __init__(self,ruta):
-        self.ruta = ruta
+    def __init__(self, nombre_archivo):
+        self.nombre_archivo = nombre_archivo
 
-    def leerArchivos(self):
-        with open(self.ruta,'r') as archivo:
-            datos = json.load(archivo)
-            return datos
+    def guardar_a_json(self, datos):
+        with open(self.nombre_archivo, 'w') as archivo_json:
+            json.dump(datos, archivo_json)
 
-    def archivo(self):
-        with open(self.ruta, 'r') as archivo:
-            datos = json.load(archivo)
+    def leer_de_json(self):
+        try:
+            with open(self.nombre_archivo, 'r') as archivo_json:
+                datos = json.load(archivo_json)
             return datos
-            
-    
-    def crearArchivos(self,datos):
-        with open(self.ruta, 'w') as archivo_nuevo:
-            json.dump(datos, archivo_nuevo,indent=4)
+        except FileNotFoundError:
+            with open(self.nombre_archivo, 'w') as archivo_json:
+                json.dump([], archivo_json)
+            return []
+
+
+    def clear_all_files(self):
+        """
+        Función para vaciar todos los archivos JSON
+        """
+        for file in os.listdir():
+            if file.endswith(".json"):
+                os.remove(file)
+
+    def clearFille(self,archivo):
+        os.remove(archivo)

@@ -28,10 +28,3 @@ class Ultrasonico:
 
     def liberarPin(self):
         GPIO.cleanup()
-
-
-if __name__ == "__main__":
-    sensor = UltrasonicSensor(trigger_pin=23, echo_pin=24)
-    distancia = sensor.measure_distance()
-    print("Distancia: {} cm".format(distancia))
-    sensor.cleanup()

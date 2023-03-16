@@ -1,54 +1,37 @@
-from jsonTest import Json 
-import os
+from jsonTest import Json
+
 
 class Lista:
-    def __init__(self,ruta):
+    def __init__(self, ruta):
         self.json = Json(ruta)
-        self.listas = []
+        self.listas = self.json.leer_de_json()  # load data from json file when class is instantiated
 
     def agregar(self, datos):
         self.listas.append(datos)
-        self.json.crearArchivos(self.listas)
+        self.json.guardar_a_json(self.listas)
+
+    def borrarInfo(self,archivo):
+        self.listas.clear()
+        self.json.guardar_a_json([])
 
     def mostrar(self):
-        return self.json.archivo()
-
-    def actualizar(self,cli,datos):
-        if self.listas:
-            self.listas[int(cli)] = datos
-            self.json.crearArchivos(self.listas)
-
-    def eliminar(self,cli):
-        self.listas.pop(int(cli))
-        self.json.crearArchivos(self.listas)
-
-    def buscarProds(self,productos):
-        datos=self.listas
-        productos = productos.split(",")
-        productos = [
-            int(x) for x in productos
-            ]
-        productos = [
-            datos[x] for x in productos
-            ]
-        return productos
-
-    def leer(self):
         return self.listas
 
-    def buscar(self,cli):
+    def actualizar(self, cli, datos):
+        if self.listas:
+            self.listas[int(cli)] = datos
+            self.json.guardar_a_json(self.listas)
+
+    def eliminar(self, cli):
+        self.listas.pop(int(cli))
+        self.json.guardar_a_json(self.listas)
+
+    def buscar(self, cli):
         return self.listas[int(cli)]
 
-    def buscar2(self,cli):
-            return self.listas[int(cli)],0
-
-    def buscarTodo(self, clave, valor):
-        filtered_list = [item for item in self.listas if item[clave] == valor]
-        if filtered_list:
-            id = self.listas.index(filtered_list[0])
-            return filtered_list, id
-        else:
-            return None
+    def sort(self, key=None, reverse=False):
+        self.listas.sort(key=key, reverse=reverse)
+        self.json.guardar_a_json(self.listas)
 
     def filter(self, key, value):
         filtered_list = [item for item in self.listas if item[key] == value]
@@ -57,3 +40,8 @@ class Lista:
             return filtered_list, id
         else:
             return None
+
+    def paginate(self, page_size, page_number):
+        start = (page_number - 1) * page_size
+        end = start + page_size
+        return self.listas[start:end]
