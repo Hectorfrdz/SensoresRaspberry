@@ -29,8 +29,8 @@ class main:
             opcion = self.menu()
             if opcion == "1":
                 self.sensoresLectura()
-            if opcion == "2":
-                interBD().mainBd()
+            # if opcion == "2":
+            #     interBD().mainBd()
             # elif opcion == "7":
             #     self.juntos()
             elif opcion == "5":
@@ -42,6 +42,7 @@ class main:
                 input("Presione Enter para continuar...")
 
     def sensoresLectura(self):
+        self.conexion.conectarBD() 
         temp = sensor("tmp", [5], "Cocina")
         ult = sensor("ult",[23,24],"Puerta")
         led = sensor("led",[27],"Foco")
@@ -52,10 +53,10 @@ class main:
             lista = self.sensores.mostrar()
             if len(lista) >= 1:  # si la lista de sensores tiene objetos, debe ingresarlos a la bd antes de los otros
                 for x in lista:
-                    if self.obj.find_one(self.colecion, x):
+                    if self.conexion.find_one(self.colecion, x):
                         pass
                     else:
-                        self.obj.insert_one(self.colecion, x)
+                        self.conexion.insert_one(self.colecion, x)
                 self.sensores.borrarInfo("Sensores.json")
             self.hiloBorrarPTiempo()
         while True:
@@ -95,21 +96,21 @@ class main:
     def menu(self):
         print("----------------------------------------------")
         print("Sistema de gestión de dispositivos raspberry")
-        if self.veces == 2:
-            resultado = interBD().checkarConexionEnUso()
-            if resultado:
-                self.bandera2 = 1
-                self.obj = resultado[0]
-                self.obj.conect()
-                self.bandera = resultado[1]
-                print(f"Datos de conexion: {self.obj.user}-{self.obj.cluster}-{self.obj.bd}------")
-                print(f"Estado: {self.bandera}")
-                self.veces = 1
+        # if self.veces == 2:
+        #     resultado = interBD().checkarConexionEnUso()
+        #     if resultado:
+        #         self.bandera2 = 1
+        #         self.obj = resultado[0]
+        #         self.obj.conect()
+        #         self.bandera = resultado[1]
+        #         print(f"Datos de conexion: {self.obj.user}-{self.obj.cluster}-{self.obj.bd}------")
+        #         print(f"Estado: {self.bandera}")
+        #         self.veces = 1
 
-            else:
-                self.bandera2 = 2
-                self.veces = 1
-                print("No hay conexion activa")
+        #     else:
+        #         self.bandera2 = 2
+        #         self.veces = 1
+        #         print("No hay conexion activa")
         self.conexion.conectarBD() 
         print("------------Menu------------")
         print("1. Sensores")
