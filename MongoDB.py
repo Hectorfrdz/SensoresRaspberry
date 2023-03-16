@@ -8,7 +8,7 @@ class MongoDB:
 
     def __init__(self):
         self.client = ""
-        self.conexion = "mongodb+srv://hector:4789108flores@cluster0.xcrymub.mongodb.net/?retryWrites=true&w=majority"
+        self.conexion = "mongodb+srv://Hector:4789108flores@cluster0.hojniek.mongodb.net/?retryWrites=true&w=majority"
         self.db=None
 
     def conectarBD(self):
