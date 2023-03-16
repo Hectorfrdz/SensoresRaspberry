@@ -55,7 +55,7 @@ class main:
                     if self.obj.find_one(self.colecion, x):
                         pass
                     else:
-                        self.conexion.insertarMuchos(x)
+                        self.obj.insert_one(self.colecion, x)
                 self.sensores.borrarInfo("Sensores.json")
             self.hiloBorrarPTiempo()
         while True:
@@ -79,7 +79,8 @@ class main:
                             print("|{:<3} | {:<20} | {:<25} | {:<7}{:<4} | {:<10} | {:<2} {:<2}|".format(z,i["nombre"],i["tipo"],i["valores"],i["dato"],i["fecha"],i["hora"],i["pines"][0],i["pines"][1]))
                         self.sensores.agregar(i)
                         if self.bandera2==1:
-                            self.conexion.insertarUno(i)
+                            self.guardar(i)
+                            self.conexion.insert_one(self.colecion,i)
 
     def guardar(self,sensor):
 

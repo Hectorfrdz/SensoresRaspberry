@@ -45,3 +45,11 @@ class MongoDB:
     def find_one(self, collection, query={}):
         coll = self.db[collection]
         return coll.find_one(query)
+    
+    def insert_one(self, collection, data):
+        coll = self.db[collection]
+        coll.insert_one(data)
+        if self.find_one(collection,data):
+            return True
+        else:
+            return False
