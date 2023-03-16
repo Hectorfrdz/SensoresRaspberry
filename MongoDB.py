@@ -15,7 +15,7 @@ class MongoDB:
         try:
            client = MongoClient(self.conexion)
            client.server_info()
-           self.client=client["CRUD"]
+           self.client=client["RaspSensores"]
            print("Hay Conexion a Internet")
            return True
         except Exception:
@@ -24,14 +24,14 @@ class MongoDB:
 
     def insertarMuchos(self,data=[]):
         if len(data)>0:
-            collection_name=self.client["Productos"]
+            collection_name=self.client["Sensores"]
             for item in data:
                 collection_name.insert_one(item)
         else:
             pass
 
     def insertarUno(self,data={}):
-        collection_name=self.client["Productos"]
+        collection_name=self.client["Sensores"]
         collection_name.insert_one(data)
 
     def insert_one(self, collection, data):
@@ -43,11 +43,11 @@ class MongoDB:
             return False
 
     def find_one(self, collection, query={}):
-        coll = self.db[collection]
+        coll =self.client["Sensores"]
         return coll.find_one(query)
     
     def insert_one(self, collection, data):
-        coll = self.db[collection]
+        coll =self.client["Sensores"]
         coll.insert_one(data)
         if self.find_one(collection,data):
             return True
