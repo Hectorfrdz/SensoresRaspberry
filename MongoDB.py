@@ -30,6 +30,10 @@ class MongoDB:
         else:
             pass
 
+    def insertarUno(self,data={}):
+        collection_name=self.client["Productos"]
+        collection_name.insert_one(data)
+
     def insert_one(self, collection, data):
         coll = self.db[collection]
         coll.insert_one(data)
