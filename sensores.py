@@ -6,6 +6,7 @@ import datetime
 from lista import Lista
 import os
 import json
+from aJson import Sensores
 
 class Sensor:
     def __init__(self,path="",pin=[],nombre=""):
@@ -19,48 +20,54 @@ class Sensor:
         self.sensorArreglo = []
 
     def tipoSensor(self):
-        valores=[]
-        self.tipo=""
+            valores=[]
+            self.tipo=""
 
-        if self.path == "ultrasonico":
-            self.tipo="Ultrasonico"
-            sensorUlt = UltrasonicSensor(trigger_pin=self.pin[0], echo_pin=self.pin[1])
-            distancia = sensorUlt.medirDistancia()
-            valores.append(distancia)
+            if self.path == "ult":
+                self.tipo=["Ultrasonico"]
+                sensorUlt = UltrasonicSensor(trigger_pin=self.pin[0], echo_pin=self.pin[1])
+                distancia = sensorUlt.medirDistancia()
+                valores.append(distancia)
+                self.tipoDato=["Cm"]
+            elif self.path=="tmp":
+                self.tipo=["Temperatura","Humedad"]
+                self.tipoDato=["°C"," h"]
+                sensor = Temperatura(self.pin[0])
+                hum, temp = sensor.lectura()
+                if hum is not None and temp is not None:
+                    valores.append(hum)
+                    valores.append(temp)
 
-        elif self.path=="humedad":
-            self.tipo="Humedad"
-            sensor = Temperatura(self.pin[0])
-            hum = sensor.lecturaHum()
-            if hum is not None and temp is not None:
-                valores.append(hum)
-        
-        elif self.path=="temperatura":
-            self.tipo="Temperatura"
-            sensor = Temperatura(self.pin[0])
-            temp = sensor.lecturaTemp()
-            if hum is not None and temp is not None:
-                valores.append(temp)
-
-
-        elif self.path=="led":
-            self.tipo="Led"
-            stat = self.led1.prenderApagar()
-            valores.append(stat)
-        return valores
+            elif self.path=="led":
+                self.tipo=["Led"]
+                stat = self.led1.prenderApagar()
+                if stat == 1:
+                    self.tipoDato= ["On"]
+                else:
+                    self.tipoDato=["Off"]
+                valores.append(stat)
+            return 
 
     def lectura(self):
-        arreglo = self.tipoSensor()
-        timestamp = time.time()
-        fecha_hora = datetime.datetime.fromtimestamp(timestamp)
-        cadena_fecha_hora = fecha_hora.strftime('%H:%M:%S')
+            arreglo = self.tipoSensor()
+            timestamp = time.time()
+            fecha_hora = datetime.datetime.fromtimestamp(timestamp)
+            cadena_fecha_hora = fecha_hora.strftime('%H:%M:%S')
+            cadena_fecha= fecha_hora.strftime('%Y-%m-%d')
+            data=[]
+            try:
+                self._id.is_valid()
+            except:
+                pass
+            if self.path == "tmp":
+                if len(arreglo) > 1:
+                    sensor1=Sensores(self.path,self.nombre,self.tipo[0],arreglo[0],self.tipoDato[0],cadena_fecha,cadena_fecha_hora,self.pin,)
+                    data.append(sensor1.to_dict())
+                    sensor2=Sensores(self.path,self.nombre,self.tipo[1],arreglo[1],self.tipoDato[1],cadena_fecha,cadena_fecha_hora,self.pin,)
+                    data.append(sensor2.to_dict())
 
-        data={
-            "nombre":self.nombre,
-            "tipo":self.tipo,
-            "valores":arreglo,
-            "fecha":cadena_fecha_hora,
-            "pines":self.pin
-        }
-        jsonS=json.dumps(data)
-        return jsonS
+            else:
+                sensor1 = Sensores(self.path, self.nombre, self.tipo[0], arreglo[0], self.tipoDato[0], cadena_fecha, cadena_fecha_hora, self.pin, )
+                data.append(sensor1.to_dict())
+            jsonS = json.dumps(data)
+            return jsonS

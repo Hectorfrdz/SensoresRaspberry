@@ -1,4 +1,5 @@
 from lista import Lista
+#from bson import ObjectId
 
 #clave = nombre que viene desde arduino
 #nombre= nombre que el usuario da
@@ -6,7 +7,7 @@ from lista import Lista
 
 class Sensores(Lista):
     def __init__(self,clave="", nombre="", tipo= "", valores="", dato="", fecha="",hora="", pines = ""):
-        super().__init__("datosSens.json")
+        super().__init__("Sensores.json")
         self.nombre=nombre
         self.clave=clave
         self.tipo=tipo
@@ -15,6 +16,7 @@ class Sensores(Lista):
         self.fecha=fecha
         self.hora=hora
         self.pines=pines
+#        self._id = ObjectId()
 
     def __str__(self):
         return f"{self.clave},{self.nombre},{self.tipo},{self.valores},{self.dato},{self.fecha},{self.hora},{self.pines}"
