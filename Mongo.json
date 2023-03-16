@@ -1,1 +1,11 @@
-[{"user": "Hector", "contra": "4789108flores", "cluster": "cluster0", "token": "hojniek", "bd": "raspberry", "url": "mongodb+srv://Hector:4789108flores@cluster0.hojniek.mongodb.net/?retryWrites=true&w=majority", "stat": 1}]
+[
+    {
+        "user": "Hector",
+        "contra": "4789108flores",
+        "cluster": "cluster0",
+        "token": "hojniek",
+        "bd": "RaspSensores",
+        "url": "mongodb+srv://Hector:4789108flores@cluster0.hojniek.mongodb.net/?retryWrites=true&w=majority",
+        "stat": 0
+    }
+]

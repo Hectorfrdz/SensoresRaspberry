@@ -1,4 +1,4 @@
-from Lista import Lista
+from lista import Lista
 from conecMongo import MongoConexion
 
 
