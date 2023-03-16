@@ -5,8 +5,10 @@ from sensores import sensor
 import json
 from aJson import Sensores
 import threading
+from MongoDB import MongoDB
 class main:
     def __init__(self):
+        self.conexion = MongoDB()
         self.sensores = Sensores()
         self.bandera = 0
         self.dispositivo = ""
@@ -78,6 +80,7 @@ class main:
                         self.sensores.agregar(i)
                         if self.bandera2==1:
                             self.guardar(i)
+                            self.conexion.insert_one(self.colecion,i)
 
     def guardar(self,sensor):
 
@@ -107,6 +110,7 @@ class main:
                 self.bandera2 = 2
                 self.veces = 1
                 print("No hay conexion activa")
+        self.conexion.conectarBD() 
         print("------------Menu------------")
         print("1. Sensores")
         print("2. Configuracion Bd")
