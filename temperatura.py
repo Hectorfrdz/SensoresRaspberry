@@ -7,4 +7,4 @@ class Temperatura:
 
     def lectura(self):
         hum, temp = Adafruit_DHT.read(self.sensor, self.pin)
-        return  hum, temp
+        return  hum, 

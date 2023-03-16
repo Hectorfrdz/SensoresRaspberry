@@ -1,5 +1,5 @@
 from lista import Lista
-#from bson import ObjectId
+from bson import ObjectId
 
 #clave = nombre que viene desde arduino
 #nombre= nombre que el usuario da
@@ -16,7 +16,7 @@ class Sensores(Lista):
         self.fecha=fecha
         self.hora=hora
         self.pines=pines
-#        self._id = ObjectId()
+        self._id = ObjectId()
 
     def __str__(self):
         return f"{self.clave},{self.nombre},{self.tipo},{self.valores},{self.dato},{self.fecha},{self.hora},{self.pines}"
@@ -35,7 +35,7 @@ class Sensores(Lista):
         else:
             if self.nombre=="":
                 self.nombre=self.clave
-            diccionario = {"clave":self.clave, "nombre": self.nombre, "tipo":self.tipo , "valores":self.valores, "dato": self.dato,"fecha":self.fecha,"hora":self.hora,"pines":self.pines}
+            diccionario = {'_id': str(self._id),"clave":self.clave, "nombre": self.nombre, "tipo":self.tipo , "valores":self.valores, "dato": self.dato,"fecha":self.fecha,"hora":self.hora,"pines":self.pines}
             listaDicc.append(diccionario)
             return diccionario
 
@@ -46,3 +46,4 @@ class Sensores(Lista):
             cli = Sensores(sensor["clave"], sensor["nombre"], sensor["tipo"], sensor["valores"], sensor["dato"], sensor["fecha"], sensor["hora"], sensor["pines"])
             sensor_obj.append(cli)
         return sensor_obj
+        

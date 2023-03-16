@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 import time
 
-class UltrasonicSensor:
+class Ultrasonico:
     def __init__(self, trigger_pin, echo_pin):
         self.trigger_pin = trigger_pin
         self.echo_pin = echo_pin
@@ -9,8 +9,6 @@ class UltrasonicSensor:
         GPIO.setup(self.trigger_pin, GPIO.OUT)
         GPIO.setup(self.echo_pin, GPIO.IN)
         GPIO.setwarnings(False)
-        self.inicio = 0
-        self.final = 0
 
     def medirDistancia(self):
         GPIO.setwarnings(False)
@@ -21,12 +19,19 @@ class UltrasonicSensor:
         time.sleep(0.00001)
         GPIO.output(self.trigger_pin, GPIO.LOW)
         while GPIO.input(self.echo_pin) == GPIO.LOW:
-            self.inicio = time.time()
+            start_time = time.time()
         while GPIO.input(self.echo_pin) == GPIO.HIGH:
-            self.final = time.time()
-        duracion = self.final - self.inicio
-        distance = (duracion * 17150)
+            end_time = time.time()
+        pulse_duration = end_time - start_time
+        distance = pulse_duration * 17150
         return round(distance, 2)
 
     def liberarPin(self):
         GPIO.cleanup()
+
+
+if __name__ == "__main__":
+    sensor = UltrasonicSensor(trigger_pin=23, echo_pin=24)
+    distancia = sensor.measure_distance()
+    print("Distancia: {} cm".format(distancia))
+    sensor.cleanup()
