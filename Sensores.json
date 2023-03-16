@@ -1,0 +1,5832 @@
+[
+    {
+        "_id": "6412b84246ee3e0022812505",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:38",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84246ee3e0022812506",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 4.34,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:38",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84346ee3e0022812507",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:39",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84346ee3e0022812508",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 23.02,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:39",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84346ee3e0022812509",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:39",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84446ee3e002281250a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 23.06,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:40",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84446ee3e002281250b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:40",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84446ee3e002281250c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 23.42,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:40",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84546ee3e002281250d",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:33:41",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b84546ee3e002281250e",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:33:41",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b84546ee3e002281250f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:41",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84546ee3e0022812510",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 22.95,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:41",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84646ee3e0022812511",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:42",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84646ee3e0022812512",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 22.95,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:42",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84646ee3e0022812513",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:42",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84746ee3e0022812514",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 23.03,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:43",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84746ee3e0022812515",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:43",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84746ee3e0022812516",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 22.93,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:43",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84846ee3e0022812517",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:44",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84846ee3e0022812518",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 22.97,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:44",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84946ee3e0022812519",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:33:45",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b84946ee3e002281251a",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:33:45",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b84946ee3e002281251b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:45",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84946ee3e002281251c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 22.97,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:45",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84946ee3e002281251d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:45",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84a46ee3e002281251e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 22.98,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:46",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84a46ee3e002281251f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:46",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84a46ee3e0022812520",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 23.0,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:46",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84b46ee3e0022812521",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:47",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84b46ee3e0022812522",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 22.94,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:47",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84c46ee3e0022812523",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:48",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84c46ee3e0022812524",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 4.76,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:48",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84c46ee3e0022812525",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:33:48",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b84c46ee3e0022812526",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:33:48",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b84c46ee3e0022812527",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:48",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84d46ee3e0022812528",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 24.41,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:49",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84d46ee3e0022812529",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:49",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84d46ee3e002281252a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 24.83,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:49",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84e46ee3e002281252b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:50",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84e46ee3e002281252c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 24.53,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:50",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84f46ee3e002281252d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:51",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b84f46ee3e002281252e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 24.74,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:51",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b84f46ee3e002281252f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:51",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85046ee3e0022812530",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.51,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:52",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85046ee3e0022812531",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:33:52",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b85046ee3e0022812532",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:33:52",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b85046ee3e0022812533",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:52",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85046ee3e0022812534",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 6.13,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:52",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85146ee3e0022812535",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:53",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85146ee3e0022812536",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 1.84,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:53",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85246ee3e0022812537",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:54",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85246ee3e0022812538",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 2.15,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:54",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85246ee3e0022812539",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:54",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85346ee3e002281253a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 2.32,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:55",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85346ee3e002281253b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:55",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85346ee3e002281253c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 1.82,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:55",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85446ee3e002281253d",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:33:56",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b85446ee3e002281253e",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:33:56",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b85446ee3e002281253f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:56",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85446ee3e0022812540",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 2.15,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:56",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85546ee3e0022812541",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:57",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85546ee3e0022812542",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.29,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:57",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85646ee3e0022812543",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:58",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85646ee3e0022812544",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.37,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:58",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85646ee3e0022812545",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:33:58",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85746ee3e0022812546",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.32,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:59",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85746ee3e0022812547",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:33:59",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85746ee3e0022812548",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 13.75,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:33:59",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85846ee3e0022812549",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:00",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b85846ee3e002281254a",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:00",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b85846ee3e002281254b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:00",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85846ee3e002281254c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 325.45,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:00",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85946ee3e002281254d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:01",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85946ee3e002281254e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 13.14,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:01",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85946ee3e002281254f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:01",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85a46ee3e0022812550",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.62,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:02",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85a46ee3e0022812551",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:02",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85a46ee3e0022812552",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.32,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:02",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85b46ee3e0022812553",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:03",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85b46ee3e0022812554",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.44,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:03",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85c46ee3e0022812555",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:04",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b85c46ee3e0022812556",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:04",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b85c46ee3e0022812557",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:04",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85c46ee3e0022812558",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.94,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:04",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85d46ee3e0022812559",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:05",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85d46ee3e002281255a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 9.37,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:05",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85d46ee3e002281255b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:05",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85e46ee3e002281255c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 9.28,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:06",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85e46ee3e002281255d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:06",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85e46ee3e002281255e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 9.37,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:06",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b85f46ee3e002281255f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:07",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b85f46ee3e0022812560",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 9.33,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:07",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86046ee3e0022812561",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:08",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86046ee3e0022812562",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:08",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86046ee3e0022812563",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:08",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86046ee3e0022812564",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 9.39,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:08",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86146ee3e0022812565",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:09",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86146ee3e0022812566",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 10.18,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:09",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86146ee3e0022812567",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:09",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86146ee3e0022812568",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:09",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86146ee3e0022812569",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:09",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86246ee3e002281256a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 9.4,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:10",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86246ee3e002281256b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:10",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86246ee3e002281256c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 10.3,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:10",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86346ee3e002281256d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:11",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86346ee3e002281256e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.78,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:11",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86446ee3e002281256f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:12",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86446ee3e0022812570",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.78,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:12",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86546ee3e0022812571",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:13",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86546ee3e0022812572",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.75,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:13",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86546ee3e0022812573",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:13",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86546ee3e0022812574",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:13",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86546ee3e0022812575",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:13",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86646ee3e0022812576",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.78,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:14",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86646ee3e0022812577",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:14",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86646ee3e0022812578",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.74,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:14",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86746ee3e0022812579",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:15",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86746ee3e002281257a",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:15",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86746ee3e002281257b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:15",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86746ee3e002281257c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.84,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:15",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86846ee3e002281257d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:16",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86846ee3e002281257e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.74,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:16",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86946ee3e002281257f",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:17",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86946ee3e0022812580",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:17",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86946ee3e0022812581",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:17",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86946ee3e0022812582",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.84,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:17",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86a46ee3e0022812583",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:18",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86a46ee3e0022812584",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.72,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:18",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86a46ee3e0022812585",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:18",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86a46ee3e0022812586",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:18",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86a46ee3e0022812587",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:18",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86b46ee3e0022812588",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.3,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:19",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86b46ee3e0022812589",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:19",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86c46ee3e002281258a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.28,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:19",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86c46ee3e002281258b",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:20",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86c46ee3e002281258c",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:20",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86c46ee3e002281258d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:20",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86c46ee3e002281258e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.12,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:20",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86d46ee3e002281258f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:21",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86d46ee3e0022812590",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.81,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:21",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86e46ee3e0022812591",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:22",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86e46ee3e0022812592",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:22",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86e46ee3e0022812593",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:22",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86e46ee3e0022812594",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.24,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:22",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86f46ee3e0022812595",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:23",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b86f46ee3e0022812596",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.8,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:23",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b86f46ee3e0022812597",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:23",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b86f46ee3e0022812598",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:23",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87046ee3e0022812599",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:24",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87046ee3e002281259a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.8,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:24",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87046ee3e002281259b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:24",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87146ee3e002281259c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.28,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:25",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87146ee3e002281259d",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:25",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87146ee3e002281259e",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:25",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87146ee3e002281259f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:25",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87246ee3e00228125a0",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.77,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:26",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87246ee3e00228125a1",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:26",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87246ee3e00228125a2",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.16,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:26",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87346ee3e00228125a3",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:27",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87346ee3e00228125a4",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:27",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87346ee3e00228125a5",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:27",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87346ee3e00228125a6",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.76,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:27",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87446ee3e00228125a7",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:28",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87446ee3e00228125a8",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.28,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:28",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87546ee3e00228125a9",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:29",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87546ee3e00228125aa",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:29",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87546ee3e00228125ab",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:29",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87546ee3e00228125ac",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.32,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:29",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87646ee3e00228125ad",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:30",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87646ee3e00228125ae",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.21,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:30",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87646ee3e00228125af",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:30",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87646ee3e00228125b0",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:30",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87646ee3e00228125b1",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:30",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87746ee3e00228125b2",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.74,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:31",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87746ee3e00228125b3",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:31",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87846ee3e00228125b4",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.21,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:32",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87846ee3e00228125b5",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:32",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87846ee3e00228125b6",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:32",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87846ee3e00228125b7",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:32",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87846ee3e00228125b8",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.23,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:32",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87946ee3e00228125b9",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:34:33",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b87946ee3e00228125ba",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.3,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:34:33",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b87a46ee3e00228125bb",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:34:34",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87a46ee3e00228125bc",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:34:34",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b87a46ee3e00228125bd",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:34:34",
+        "pines": [
+            17
+        ]
+    },
+    {
+        "_id": "6412b8cb54003570d75296c3",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:35:55",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8cb54003570d75296c4",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.35,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:35:55",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8cc54003570d75296c5",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:35:56",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8cc54003570d75296c6",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.38,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:35:56",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8cd54003570d75296c7",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:35:57",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8cd54003570d75296c8",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.79,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:35:57",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8cd54003570d75296c9",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:35:57",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8ce54003570d75296ca",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.72,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:35:58",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8ce54003570d75296cb",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:35:58",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8ce54003570d75296cc",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.8,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:35:58",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8cf54003570d75296cd",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:35:59",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8cf54003570d75296ce",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.82,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:35:59",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d054003570d75296cf",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:00",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8d054003570d75296d0",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.35,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:00",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d154003570d75296d1",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:01",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8d154003570d75296d2",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.39,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:01",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d254003570d75296d3",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:02",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8d254003570d75296d4",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.33,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:02",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d254003570d75296d5",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:02",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8d354003570d75296d6",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.78,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:03",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d354003570d75296d7",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:03",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8d454003570d75296d8",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.37,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:04",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d454003570d75296d9",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:04",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8d454003570d75296da",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.36,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:04",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d554003570d75296db",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:05",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8d554003570d75296dc",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.37,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:05",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d654003570d75296dd",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:06",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8d654003570d75296de",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.33,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:06",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d754003570d75296df",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:07",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8d754003570d75296e0",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.35,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:07",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d854003570d75296e1",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:08",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8d854003570d75296e2",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.33,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:08",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d854003570d75296e3",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:08",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8d954003570d75296e4",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.4,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:09",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8d954003570d75296e5",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:09",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8da54003570d75296e6",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.33,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:10",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8da54003570d75296e7",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:10",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8db54003570d75296e8",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.45,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:10",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8db54003570d75296e9",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:11",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8db54003570d75296ea",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.44,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:11",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8dc54003570d75296eb",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:12",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8dc54003570d75296ec",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.31,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:12",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8dd54003570d75296ed",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:13",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8dd54003570d75296ee",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.31,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:13",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8de54003570d75296ef",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:14",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8de54003570d75296f0",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.4,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:14",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8df54003570d75296f1",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:15",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8df54003570d75296f2",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.36,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:15",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8df54003570d75296f3",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:15",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e054003570d75296f4",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.38,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:16",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8e054003570d75296f5",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:16",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e154003570d75296f6",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.34,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:17",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8e154003570d75296f7",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:17",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e154003570d75296f8",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.37,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:17",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8e254003570d75296f9",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:18",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e254003570d75296fa",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.34,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:18",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8e354003570d75296fb",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:19",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e354003570d75296fc",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.37,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:19",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8e454003570d75296fd",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:20",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e454003570d75296fe",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.38,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:20",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8e554003570d75296ff",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:21",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e554003570d7529700",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.38,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:21",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8e654003570d7529701",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:22",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e654003570d7529702",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.72,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:22",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8e654003570d7529703",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:22",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e754003570d7529704",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.38,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:23",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8e754003570d7529705",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:23",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e854003570d7529706",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.26,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:24",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8e854003570d7529707",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:24",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e954003570d7529708",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.27,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:25",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8e954003570d7529709",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:25",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8e954003570d752970a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.37,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:25",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8ea54003570d752970b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:26",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8ea54003570d752970c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.35,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:26",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8eb54003570d752970d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:27",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8eb54003570d752970e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.71,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:27",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8ec54003570d752970f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:28",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8ec54003570d7529710",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.31,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:28",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8ed54003570d7529711",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:29",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8ed54003570d7529712",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.43,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:29",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8ee54003570d7529713",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:30",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8ee54003570d7529714",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.3,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:30",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8ee54003570d7529715",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:30",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8ef54003570d7529716",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.78,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:31",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8ef54003570d7529717",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:31",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8f054003570d7529718",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.71,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:32",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8f054003570d7529719",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:32",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8f154003570d752971a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.81,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:33",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8f154003570d752971b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:33",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8f154003570d752971c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.69,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:33",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8f254003570d752971d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:34",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8f254003570d752971e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.39,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:34",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8f354003570d752971f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:35",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8f354003570d7529720",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.36,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:35",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8f454003570d7529721",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:36",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8f454003570d7529722",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.31,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:36",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8f554003570d7529723",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:37",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8f554003570d7529724",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.3,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:37",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8f654003570d7529725",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:38",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8f654003570d7529726",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.32,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:38",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8f754003570d7529727",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:39",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8f754003570d7529728",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.77,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:39",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8f754003570d7529729",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:39",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8f854003570d752972a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.34,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:40",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8f854003570d752972b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:40",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8f954003570d752972c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.41,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:41",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8f954003570d752972d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:41",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8fa54003570d752972e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.38,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:42",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8fa54003570d752972f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:42",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8fb54003570d7529730",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.4,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:43",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8fb54003570d7529731",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:43",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8fb54003570d7529732",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.45,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:43",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8fc54003570d7529733",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:44",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8fc54003570d7529734",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.32,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:44",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8fd54003570d7529735",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:45",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8fd54003570d7529736",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.76,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:45",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8fe54003570d7529737",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:46",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8fe54003570d7529738",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.29,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:46",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b8ff54003570d7529739",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:47",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b8ff54003570d752973a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.41,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:47",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90054003570d752973b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:48",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90054003570d752973c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.34,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:48",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90154003570d752973d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:49",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90154003570d752973e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.3,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:49",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90254003570d752973f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:50",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90254003570d7529740",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.29,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:50",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90254003570d7529741",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:50",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90354003570d7529742",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.84,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:51",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90354003570d7529743",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:51",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90454003570d7529744",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.27,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:52",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90454003570d7529745",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:52",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90554003570d7529746",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.32,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:53",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90554003570d7529747",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:53",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90654003570d7529748",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.29,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:54",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90654003570d7529749",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:54",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90654003570d752974a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.29,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:54",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90754003570d752974b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:55",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90754003570d752974c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.21,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:55",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90854003570d752974d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:56",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90854003570d752974e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.35,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:56",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90954003570d752974f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:57",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90954003570d7529750",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.31,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:57",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90a54003570d7529751",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:36:58",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90a54003570d7529752",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.27,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:58",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90b54003570d7529753",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:36:59",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90b54003570d7529754",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.3,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:36:59",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90c54003570d7529755",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:37:00",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90c54003570d7529756",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.21,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:00",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90d54003570d7529757",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:37:01",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90d54003570d7529758",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.31,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:01",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90e54003570d7529759",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:37:02",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90e54003570d752975a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.36,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:02",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90f54003570d752975b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:37:03",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b90f54003570d752975c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.3,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:03",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b90f54003570d752975d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:37:03",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b91054003570d752975e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.24,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:04",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b91054003570d752975f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:37:04",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b91154003570d7529760",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.29,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:05",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b91154003570d7529761",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:37:05",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b91254003570d7529762",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.32,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:06",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b91254003570d7529763",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:37:06",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b91354003570d7529764",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.74,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:07",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b91354003570d7529765",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:37:07",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b91454003570d7529766",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.82,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:08",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b91454003570d7529767",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:37:08",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b91554003570d7529768",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.32,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:08",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b91554003570d7529769",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:37:09",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b91554003570d752976a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.33,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:09",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b91654003570d752976b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:37:10",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b91654003570d752976c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.27,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:10",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b91754003570d752976d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:37:11",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b91754003570d752976e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.39,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:11",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b91854003570d752976f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:37:12",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b91854003570d7529770",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.79,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:12",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b91954003570d7529771",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:37:13",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b91954003570d7529772",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.29,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:37:13",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b91a54003570d7529773",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:37:14",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b96eef60d5a549e30329",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:38:38",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b96eef60d5a549e3032a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.32,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:38",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b96fef60d5a549e3032b",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 40.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:38:39",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b96fef60d5a549e3032c",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:38:39",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b96fef60d5a549e3032d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:38:39",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b96fef60d5a549e3032e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.31,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:39",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b970ef60d5a549e3032f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:38:40",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b970ef60d5a549e30330",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.32,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:40",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b971ef60d5a549e30331",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:38:41",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b971ef60d5a549e30332",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.77,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:41",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b972ef60d5a549e30333",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 39.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:38:42",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b972ef60d5a549e30334",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 29.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:38:42",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b972ef60d5a549e30335",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:38:42",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b973ef60d5a549e30336",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.28,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:43",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b973ef60d5a549e30337",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:38:43",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b973ef60d5a549e30338",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.44,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:43",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b974ef60d5a549e30339",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:38:44",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b974ef60d5a549e3033a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.89,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:44",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b975ef60d5a549e3033b",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 38.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:38:45",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b975ef60d5a549e3033c",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 30.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:38:45",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b975ef60d5a549e3033d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:38:45",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b976ef60d5a549e3033e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.85,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:46",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b976ef60d5a549e3033f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:38:46",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b977ef60d5a549e30340",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.48,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:47",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b977ef60d5a549e30341",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:38:47",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b978ef60d5a549e30342",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.95,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:48",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b978ef60d5a549e30343",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:38:48",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b978ef60d5a549e30344",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 30.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:38:48",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b978ef60d5a549e30345",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:38:48",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b979ef60d5a549e30346",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.91,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:49",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b979ef60d5a549e30347",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:38:49",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b97aef60d5a549e30348",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.57,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:50",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b97aef60d5a549e30349",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:38:50",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b97bef60d5a549e3034a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.86,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:51",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b97bef60d5a549e3034b",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 37.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:38:51",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b97bef60d5a549e3034c",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 30.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:38:51",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b97cef60d5a549e3034d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:38:52",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b97cef60d5a549e3034e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.87,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:52",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b97def60d5a549e3034f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:38:53",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b97def60d5a549e30350",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.47,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:53",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b97eef60d5a549e30351",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:38:54",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b97eef60d5a549e30352",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.87,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:54",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b97fef60d5a549e30353",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:38:55",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b97fef60d5a549e30354",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 7.7,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:55",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b980ef60d5a549e30355",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:38:56",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b980ef60d5a549e30356",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.84,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:56",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b981ef60d5a549e30357",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Temperatura",
+        "valores": 36.0,
+        "dato": "\u00b0C",
+        "fecha": "2023-03-16",
+        "hora": "06:38:56",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b981ef60d5a549e30358",
+        "clave": "tmp",
+        "nombre": "Cocina",
+        "tipo": "Humedad",
+        "valores": 30.0,
+        "dato": " h",
+        "fecha": "2023-03-16",
+        "hora": "06:38:56",
+        "pines": [
+            5
+        ]
+    },
+    {
+        "_id": "6412b981ef60d5a549e30359",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:38:57",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b981ef60d5a549e3035a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.95,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:57",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b982ef60d5a549e3035b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:38:58",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b982ef60d5a549e3035c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.86,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:58",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b983ef60d5a549e3035d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:38:59",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b983ef60d5a549e3035e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.52,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:38:59",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b984ef60d5a549e3035f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:39:00",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b984ef60d5a549e30360",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.87,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:39:00",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b985ef60d5a549e30361",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:39:01",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b985ef60d5a549e30362",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.96,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:39:01",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b986ef60d5a549e30363",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:39:02",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b986ef60d5a549e30364",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.46,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:39:02",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b987ef60d5a549e30365",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:39:03",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b987ef60d5a549e30366",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.57,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:39:03",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b988ef60d5a549e30367",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:39:04",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b988ef60d5a549e30368",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.96,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:39:04",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b989ef60d5a549e30369",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:39:05",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b989ef60d5a549e3036a",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.89,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:39:05",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b98aef60d5a549e3036b",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:39:06",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b98aef60d5a549e3036c",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.92,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:39:06",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b98bef60d5a549e3036d",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 1,
+        "dato": "On",
+        "fecha": "2023-03-16",
+        "hora": "06:39:07",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b98bef60d5a549e3036e",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.83,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:39:07",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "6412b98cef60d5a549e3036f",
+        "clave": "led",
+        "nombre": "Foco",
+        "tipo": "Led",
+        "valores": 0,
+        "dato": "Off",
+        "fecha": "2023-03-16",
+        "hora": "06:39:08",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "6412b98cef60d5a549e30370",
+        "clave": "ult",
+        "nombre": "Puerta",
+        "tipo": "Ultrasonico",
+        "valores": 8.91,
+        "dato": "Cm",
+        "fecha": "2023-03-16",
+        "hora": "06:39:08",
+        "pines": [
+            23,
+            24
+        ]
+    }
+]

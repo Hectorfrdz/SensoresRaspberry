@@ -7,7 +7,7 @@ class Json:
 
     def guardar_a_json(self, datos):
         with open(self.nombre_archivo, 'w') as archivo_json:
-            json.dump(datos, archivo_json)
+            json.dump(datos, archivo_json,indent=4)
 
     def leer_de_json(self):
         try:

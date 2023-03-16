@@ -42,7 +42,7 @@ class main:
     def sensoresLectura(self):
         temp = sensor("tmp", [5], "Cocina")
         ult = sensor("ult",[23,24],"Puerta")
-        led = sensor("led",[17],"Foco")
+        led = sensor("led",[27],"Foco")
         sensores=[temp,led, ult]
         # sensores=[temp]
         z=0
