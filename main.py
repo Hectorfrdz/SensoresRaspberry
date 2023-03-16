@@ -80,7 +80,7 @@ class main:
                         self.sensores.agregar(i)
                         if self.bandera2==1:
                             self.guardar(i)
-                            self.conexion.insert_one(self.colecion,i)
+                            self.conexion.insertarMuchos(i)
 
     def guardar(self,sensor):
 
