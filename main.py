@@ -1,6 +1,4 @@
 import time
-from interBD import interBD
-from Mongo import Mongo
 from sensores import sensor
 import json
 from aJson import Sensores
@@ -12,8 +10,6 @@ class main:
         self.sensores = Sensores()
         self.bandera = 0
         self.dispositivo = ""
-        self.mongo = Mongo()
-        self.obj = Mongo()
         self.tiempoEspera = 120  # tiempo en segundos
         self.timer_count = 0  # contador de tiempo para borrar historial local
         self.veces = 2
@@ -33,7 +29,7 @@ class main:
             #     interBD().mainBd()
             # elif opcion == "7":
             #     self.juntos()
-            elif opcion == "5":
+            elif opcion == "2":
                 # Salir
                 print("Saliendo del sistema...")
                 break
@@ -84,39 +80,12 @@ class main:
                             # self.guardar(i)
                             self.conexion.insert_one(self.colecion,i)
 
-    def guardar(self,sensor):
-
-        if self.obj.insert_one(self.colecion,sensor) is False:  # si no se inserto, debe cambiar la bandera
-            self.bandera2 = 2
-            print("Se perdio la conexion, guardando solo localmente")
-            ultimoSensor = sensor  # guarda la lecutra donde sucede la desconexion
-            self.sensores.borrarInfo("Sensores.json")  # borra datos para no repetirlos
-            self.sensores.agregar(ultimoSensor)
-            self.sensoresLectura()  # debe regresar al metodo para empezar a guardar solo local
-
     def menu(self):
         print("----------------------------------------------")
-        print("Sistema de gestión de dispositivos raspberry")
-        # if self.veces == 2:
-        #     resultado = interBD().checkarConexionEnUso()
-        #     if resultado:
-        #         self.bandera2 = 1
-        #         self.obj = resultado[0]
-        #         self.obj.conect()
-        #         self.bandera = resultado[1]
-        #         print(f"Datos de conexion: {self.obj.user}-{self.obj.cluster}-{self.obj.bd}------")
-        #         print(f"Estado: {self.bandera}")
-        #         self.veces = 1
-
-        #     else:
-        #         self.bandera2 = 2
-        #         self.veces = 1
-        #         print("No hay conexion activa")
         self.conexion.conectarBD() 
         print("------------Menu------------")
         print("1. Sensores")
-        print("2. Configuracion Bd")
-        print("5. Salir")
+        print("2. Salir")
         print("----------------------------")
         opcion = input("Seleccione una opción: ")
         return opcion

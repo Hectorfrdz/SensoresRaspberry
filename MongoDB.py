@@ -15,7 +15,7 @@ class MongoDB:
         try:
            client = MongoClient(self.conexion)
            client.server_info()
-           self.client=client["RaspSensores"]
+           self.client=client["Raspberry"]
            print("Hay Conexion a Internet")
            return True
         except Exception:
