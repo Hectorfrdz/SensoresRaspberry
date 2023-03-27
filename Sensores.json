@@ -1,16 +1,69 @@
 [
     {
-        "_id": "6412b98cef60d5a549e30370",
+        "_id": "64149efdc842257994454828",
+        "clave": "led",
+        "nombre": "Led",
+        "tipo": "Led",
+        "valores": 1,
+        "unidad": "On",
+        "fecha": "2023-03-17",
+        "hora": "17:10:21",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "64149efdc842257994454829",
         "clave": "ult",
-        "nombre": "Puerta",
+        "nombre": "Ultrasonico",
         "tipo": "Ultrasonico",
-        "valores": 8.91,
-        "dato": "Cm",
-        "fecha": "2023-03-16",
-        "hora": "06:39:08",
+        "valores": 20.02,
+        "unidad": "Cm",
+        "fecha": "2023-03-17",
+        "hora": "17:10:21",
         "pines": [
             23,
             24
+        ]
+    },
+    {
+        "_id": "64149efec84225799445482a",
+        "clave": "led",
+        "nombre": "Led",
+        "tipo": "Led",
+        "valores": 0,
+        "unidad": "Off",
+        "fecha": "2023-03-17",
+        "hora": "17:10:22",
+        "pines": [
+            27
+        ]
+    },
+    {
+        "_id": "64149effc84225799445482b",
+        "clave": "ult",
+        "nombre": "Ultrasonico",
+        "tipo": "Ultrasonico",
+        "valores": 19.7,
+        "unidad": "Cm",
+        "fecha": "2023-03-17",
+        "hora": "17:10:23",
+        "pines": [
+            23,
+            24
+        ]
+    },
+    {
+        "_id": "64149f00c84225799445482c",
+        "clave": "led",
+        "nombre": "Led",
+        "tipo": "Led",
+        "valores": 1,
+        "unidad": "On",
+        "fecha": "2023-03-17",
+        "hora": "17:10:24",
+        "pines": [
+            27
         ]
     }
 ]

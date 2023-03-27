@@ -14,6 +14,7 @@ class main:
         self.timer_count = 0  # contador de tiempo para borrar historial local
         self.veces = 2
         self.colecion = "Sensores"
+        self.bandera2 = 0
 
     def contador(self, tiempo):
         for i in range(tiempo, -1, -1):
@@ -40,9 +41,9 @@ class main:
     def sensoresLectura(self):
         if self.conexion.conectarBD():
             self.bandera2 = 1 
-        temp = sensor("tmp", [5], "Cocina")
-        ult = sensor("ult",[23,24],"Puerta")
-        led = sensor("led",[27],"Foco")
+        temp = sensor("tmp", [5], "Temperatura/Humedad")
+        ult = sensor("ult",[23,24],"Ultrasonico")
+        led = sensor("led",[27],"Led")
         sensores=[temp,led, ult]
         # sensores=[temp]
         z=0
@@ -72,9 +73,9 @@ class main:
                             # print(i["dato"])
                             # print(i["fecha"])
                             # print(i["pines"][0])
-                            print("|{:<3} | {:<20} | {:<25} | {:<7}{:<4} | {:<10} | {:<10} | {:<5}|".format(z, i["nombre"],i["tipo"],i["valores"],i["dato"],i["fecha"],i["hora"],i["pines"][0]))
+                            print("|{:<3} | {:<20} | {:<25} | {:<7}{:<4} | {:<10} | {:<10} | {:<5}|".format(z, i["nombre"],i["tipo"],i["valores"],i["unidad"],i["fecha"],i["hora"],i["pines"][0]))
                         elif len(i["pines"]) == 2:
-                            print("|{:<3} | {:<20} | {:<25} | {:<7}{:<4} | {:<10} | {:<2} {:<2}|".format(z,i["nombre"],i["tipo"],i["valores"],i["dato"],i["fecha"],i["hora"],i["pines"][0],i["pines"][1]))
+                            print("|{:<3} | {:<20} | {:<25} | {:<7}{:<4} | {:<10} | {:<2} {:<2}|".format(z,i["nombre"],i["tipo"],i["valores"],i["unidad"],i["fecha"],i["hora"],i["pines"][0],i["pines"][1]))
                         self.sensores.agregar(i)
                         if self.bandera2==1:
                             # self.guardar(i)
